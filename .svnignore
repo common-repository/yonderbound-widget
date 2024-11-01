@@ -1,0 +1,13 @@
+.bowerrc
+.git/
+.gitignore
+.travis.yml
+.yo-rc.json
+Dockunit.json
+Gruntfile.js
+README.md
+bower.json
+docker-compose.yml
+package.json
+phpunit.xml
+tests/
